@@ -1,4 +1,4 @@
-module.exports = reverse;
+module.exports = reverse; //we are exportin this reverse module. 
 
 function reverse(sentence){
     

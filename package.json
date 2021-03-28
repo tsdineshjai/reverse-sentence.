@@ -1,6 +1,6 @@
 {
-  "name": "reverse-sentence",
-  "version": "0.1.0",
+  "name": "@tsdjai/reverse-sentence",
+  "version": "1.0.0",
   "description": "Reverses a sentence.",
   "main": "index.js",
   "scripts": {
