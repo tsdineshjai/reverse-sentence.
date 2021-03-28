@@ -1,0 +1,24 @@
+{
+  "name": "reverse-sentence",
+  "version": "0.1.0",
+  "description": "Reverses a sentence.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lint": "./node_modules/prettier/bin-prettier.js --write"
+  },
+  "author": "Dinesh jai TS",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tsdineshjai/reverse-sentence..git"
+  },
+  "bugs": {
+    "url": "https://github.com/tsdineshjai/reverse-sentence./issues"
+  },
+  "homepage": "https://github.com/tsdineshjai/reverse-sentence.#readme",
+  "devDependencies": {
+    "prettier": "2.2.1"
+  },
+  "dependencies": {}
+}
